@@ -20,6 +20,7 @@
       key-expr="id"
       display-expr="name"
       search-expr="name"
+      page-load-mode="scrollBottom"
     >
       <DxSearchEditorOptions
         placeholder="Filtrele"
