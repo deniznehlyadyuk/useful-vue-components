@@ -13,17 +13,16 @@ Bu komponent e-ticaret sitelerinde görmeye alışık olduğumuz filtreleme oper
 
 ### Filtrelerin Çoklu Seçimi
 
-https://user-images.githubusercontent.com/45640934/150694004-392ac8b7-1f96-4480-a42d-b66b25b493e0.mp4
+![coklusecim](https://user-images.githubusercontent.com/45640934/150694323-932c2038-7f2a-41c5-89ed-438116642399.gif)
 
 ### Filtrelerin Tekli Silinmesi
 
-https://user-images.githubusercontent.com/45640934/150694018-2f699556-0152-4d53-b195-d06154a51994.mp4
+![filtresilme](https://user-images.githubusercontent.com/45640934/150694358-3e8856eb-9fc5-479e-baae-e087e86956a0.gif)
 
 ### Filtrelerin Tekli Seçimi
 
-https://user-images.githubusercontent.com/45640934/150694034-11a4cc38-56cc-44dc-ba7d-e14448322cda.mp4
+![teklisecim](https://user-images.githubusercontent.com/45640934/150694383-a31c4ddb-5eb2-4ad3-9d7c-e5ec118ce7f9.gif)
 
 ### Filtrelerin Toplu Silinmesi
 
-https://user-images.githubusercontent.com/45640934/150694038-3040cac1-d5b8-4048-99cf-6c348d13e4b5.mp4
-
+![toplusilim](https://user-images.githubusercontent.com/45640934/150694438-66bbb5cc-2ddd-49e9-b5e1-aac092a76425.gif)
